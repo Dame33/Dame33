@@ -1,4 +1,4 @@
-# 👋 Heyo, I'm Damon!
+# 👋 Hey hey, I'm Damon!
 ⭐️ *“Always learning, always building.”*
 
 - 🎓 4th Year Software Engineering Student @ Lassonde School of Engineering
