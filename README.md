@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hi, I'm Damon!
 
-<!--
-**Dame33/Dame33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 Software Engineering Student @ Lassonde School of Engineering
+- 📊 Developer with experience in Java, Python, Swift
+- 📱🏈 Creator of fumble.
+- 
+## 🛠 Technical Skills  
+**Languages:** Java, Python, Swift, HTML, CSS, SQL, Assembly, JavaScript, Elixir  
 
-Here are some ideas to get you started:
+## 📫 Let’s Connect  
+- 📧 [damonlam315@gmail.com](mailto:damonlam315@gmail.com)  
+- 🌐 [GitHub: Dame33](https://github.com/Dame33)  
+- 💼 [Linkedin: damon-lam] (https://linkedin.com/in/damon-lam)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⭐️ *“Always learning, always building.”*
