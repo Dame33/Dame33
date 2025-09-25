@@ -1,8 +1,9 @@
 # 👋 Hi, I'm Damon!
+⭐️ *“Always learning, always building.”*
 
 - 🎓 Software Engineering Student @ Lassonde School of Engineering
 - 📊 Developer with experience in Java, Python, Swift
-- 📱🏈 Creator of fumble.
+- 📱🏈 Currently working/perfecting fumble.
   
 ## 🖥️ Languages
 
@@ -20,4 +21,3 @@
 - 🌐 [GitHub: Dame33](https://github.com/Dame33)  
 - 💼 [Linkedin: damon-lam] (https://linkedin.com/in/damon-lam)
 
-⭐️ *“Always learning, always building.”*
