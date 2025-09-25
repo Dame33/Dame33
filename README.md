@@ -2,7 +2,7 @@
 ⭐️ *“Always learning, always building.”*
 
 - 🎓 4th Year Software Engineering Student @ Lassonde School of Engineering
-- 📊 Software Developer passionate about growth — constantly expanding technical skills and turning ideas into real-world applications.
+- 📊 Software Developer with a strong foundation in modern languages and tools, eager to grow through hands-on experience and collaboration.
 - 📱🏈 Currently working/perfecting fumble.
   
 ## 🖥️ Languages
@@ -19,5 +19,5 @@
 ## 📫 Let’s Connect  
 - 📧 [damonlam315@gmail.com](mailto:damonlam315@gmail.com)  
 - 🌐 [GitHub: Dame33](https://github.com/Dame33)  
-- 💼 [Linkedin: damon-lam] (https://linkedin.com/in/damon-lam)
+- 💼 [LinkedIn: Damon Lam](https://linkedin.com/in/damon-lam)
 
