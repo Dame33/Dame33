@@ -16,7 +16,8 @@
 ![Assembly](https://img.shields.io/badge/-Assembly-555555?logo=none&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![Elixir](https://img.shields.io/badge/-Elixir-4B275F?logo=elixir&logoColor=white)
-## 📫 Let’s Connect  
+
+## 📫 Let’s Connect!!
 - 📧 [damonlam315@gmail.com](mailto:damonlam315@gmail.com)  
 - 🌐 [GitHub: Dame33](https://github.com/Dame33)  
 - 💼 [LinkedIn: Damon Lam](https://linkedin.com/in/damon-lam)
