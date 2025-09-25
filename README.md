@@ -2,7 +2,7 @@
 ⭐️ *“Always learning, always building.”*
 
 - 🎓 4th Year Software Engineering Student @ Lassonde School of Engineering
-- 📊 Software Developer with a strong foundation in modern languages and tools, eager to grow through hands-on experience and collaboration.
+- 📊 Software Developer passionate about growth — constantly expanding technical skills and turning ideas into real-world applications.
 - 📱🏈 Currently working/perfecting fumble.
   
 ## 🖥️ Languages
