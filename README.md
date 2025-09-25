@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Damon!
 ⭐️ *“Always learning, always building.”*
 
-- 🎓 Software Engineering Student @ Lassonde School of Engineering
-- 📊 Developer with experience in Java, Python, Swift
+- 🎓 4th Year Software Engineering Student @ Lassonde School of Engineering
+- 📊 Software Developer passionate about growth — constantly expanding technical skills and turning ideas into real-world applications.
 - 📱🏈 Currently working/perfecting fumble.
   
 ## 🖥️ Languages
