@@ -1,6 +1,7 @@
 # 👋 Hey, I'm Damon!
 ⭐️ *“Always learning, always building.”*
 
+- 💼 Previously @ theScore / PENN Entertainment (ESPN BET)
 - 🎓 4th Year Software Engineering Student @ Lassonde School of Engineering
 - 📊 Software Developer passionate about growth — constantly expanding technical skills and turning ideas into real-world applications.
 - 📱🏈 Currently working on/perfecting fumble. (feel free to send feedback + suggestions!)
