@@ -4,7 +4,7 @@
 - 💼 Previously @ theScore / PENN Entertainment (ESPN BET)
 - 🎓 4th Year Software Engineering Student @ Lassonde School of Engineering
 - 📊 Software Developer passionate about growth, constantly expanding technical skills and turning ideas into real-world applications.
-- 📱🏈 Currently working on/perfecting fumble. (feel free to send feedback + suggestions!)
+- 📱🏈 Currently working on PumpScout, the best way to track the crazy gas prices in Toronto!
   
 ## 🖥️ Languages
 
