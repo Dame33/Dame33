@@ -1,5 +1,5 @@
 # 👋 Hey, I'm Damon!
-⭐️ *“Always learning, always building.”*
+*“Always learning, always building.”*
 
 - 💼 Previously @ theScore / PENN Entertainment (ESPN BET)
 - 🎓 4th Year Software Engineering Student @ Lassonde School of Engineering
