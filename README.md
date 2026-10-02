@@ -1,10 +1,10 @@
 # 👋 Hey, I'm Damon!
 *“Always learning, always building.”*
 
+- 🖥️ Currently a Software Engineer Intern @ SOTI working on SOTI XSight
 - 💼 Previously @ theScore / PENN Entertainment (ESPN BET)
 - 🎓 4th Year Software Engineering Student @ Lassonde School of Engineering
 - 📊 Software Developer passionate about growth, constantly expanding technical skills and turning ideas into real-world applications.
-- 📱 Currently working on PumpScout, the best way to track the crazy gas prices in Toronto!
   
 ## 🖥️ Languages
 
